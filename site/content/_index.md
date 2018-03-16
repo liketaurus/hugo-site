@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Еще один статический сайт"
+subtitle: Просто пример статического сайта Netlify CMS
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
